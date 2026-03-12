@@ -1,0 +1,7 @@
+/tmp/
+*.log
+.DS_Store
+.env
+node_modules/
+package-lock.json
+.claude/
